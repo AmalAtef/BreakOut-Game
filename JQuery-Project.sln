@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQuery-Project", "JQuery-Project\JQuery-Project.csproj", "{46A2D284-F1E2-4799-A473-C564D8DF7A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A2D284-F1E2-4799-A473-C564D8DF7A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A2D284-F1E2-4799-A473-C564D8DF7A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A2D284-F1E2-4799-A473-C564D8DF7A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A2D284-F1E2-4799-A473-C564D8DF7A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/iti-ui40
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = JQuery-Project\\JQuery-Project.csproj
+		SccProjectName1 = JQuery-Project
+		SccLocalPath1 = JQuery-Project
+	EndGlobalSection
+EndGlobal
